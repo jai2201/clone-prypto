@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clone-prypto/static/css/main.6d5f30c1.css",
+    "main.js": "/clone-prypto/static/js/main.9676fd96.js",
+    "index.html": "/clone-prypto/index.html",
+    "main.6d5f30c1.css.map": "/clone-prypto/static/css/main.6d5f30c1.css.map",
+    "main.9676fd96.js.map": "/clone-prypto/static/js/main.9676fd96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d5f30c1.css",
+    "static/js/main.9676fd96.js"
+  ]
+}
